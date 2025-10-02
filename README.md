@@ -1,8 +1,5 @@
 # Tokens-impact-for-encoder-decoder-architectures
 
-# Token-Level Explainability Framework for Transformer Architectures
-
-A comprehensive framework for interpreting and understanding how individual tokens influence predictions in Transformer-based models through both internal mechanism analysis and external attribution methods.
 
 ## Overview
 
